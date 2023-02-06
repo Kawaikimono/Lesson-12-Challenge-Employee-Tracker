@@ -12,9 +12,9 @@ This project was to make a database using Node.js, Inquirer, and MySQ.
 
 ## Depolyed Viewing
 
-Shortened Video link: https://drive.google.com/file/d/1r1O-ph4yzljq_s-EmNsw4XfjjGt24sCc/view
+Video link: https://drive.google.com/file/d/1NVVAIQ9yu6ZnCfkA5qMEDDAjzP5b38mr/view
 
-Full length demo video: https://drive.google.com/file/d/1yHZ96QIW2zpwHy5TYEHgZM7c_iPaZ3iI/view
+GitHub Link: https://github.com/Kawaikimono/Lesson-12-Challenge-Employee-Tracker.git
 
 ## Credits
  To Joe and edX Boot Camps LLC for providing material.
